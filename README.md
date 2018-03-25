@@ -1,2 +1,4 @@
-# event_management
-event management app
+event_management
+================
+
+Lunch &amp; Learn Event Management

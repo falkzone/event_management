@@ -1,0 +1,56 @@
+1:
+  name: "Salman Alam"
+  image: "http://m.c.lnkd.licdn.com/mpr/mpr/shrink_200_200/p/3/000/1dc/084/27913f6.jpg"
+  linkedin: "http://www.linkedin.com/in/salmanalam19"
+  github: "https://github.com/salmanprk"
+  twitter: ""
+
+3:
+  name: "Abrar Musa"
+  image: "https://1.gravatar.com/avatar/49be1c933f15a9e7b96c6dd7f989eddd?d=https%3A%2F%2Fidenticons.github.com%2F0169f0d2f7c88863e7dfe9ba64a15213.png&r=x&s=400"
+  linkedin: "http://www.linkedin.com/profile/view?id=145789888&locale=en_US&trk=tyah2&trkInfo=tas%3AAbrar%20Musa%2Cidx%3A1-1-1"
+  github: "https://github.com/abrarmusa"
+  twitter: "http://www.twitter.com/drew_bro"
+
+4:
+  name: "Drew Ogryzek"
+  image: "https://lh5.googleusercontent.com/-Q5KW5u0k_jw/UgBAzjf9kiI/AAAAAAAAAO8/lLRdbGuy6tM/s612-no/DrewGrey.png"
+  linkedin: "http://www.linkedin.com/profile/view?id=316501614&trk=nav_responsive_tab_profile_pic"
+  github: "https://github.com/ogryzek"
+  twitter: "http://www.twitter.com/drew_bro"
+
+5:
+  name: "Arash Ouji"
+  image: "https://lh3.googleusercontent.com/-XTOG0kkqsPk/Uvk42tyDuFI/AAAAAAAAADs/aR_GHP1C3Pw/s120/image22.png"
+  linkedin: "http://www.linkedin.com/profile/view?id=187414180"
+  github: "https://github.com/aouji"
+  twitter: ""
+
+6:
+  name: "Brandon Ricci"
+  image: "http://i.imgur.com/LJ7hMNS.jpg"
+  linkedin: "http://www.linkedin.com/profile/view?id=248163787&trk=nav_responsive_tab_profile_pic"
+  github: "https://github.com/brandontricci"
+  
+7:
+  name: "Kelly Waters"
+  image: "http://m.c.lnkd.licdn.com/media/p/5/000/23d/169/16ef873.jpg"
+  linkedin: "http://www.linkedin.com/profile/view?id=46306336&locale=en_US&trk=tyah&trkInfo=tas%3Ake%2Cidx%3A2-4-5"
+  github: "https://github.com/kwaters12"
+  twitter: "http://www.twitter.com/kellyminjaro"
+
+8:
+  name: "Don Wong"
+  image: "https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-frc3/t31/1890466_10150360844189981_70242708_o.jpg"
+  linkedin: "http://www.linkedin.com/pub/d-wong/36/213/173"
+  github: "https://github.com/donwon"
+  twitter: ""
+
+
+9: 
+  name: "Jef Curtis"
+  image: "http://assets.vancitybuzz.com/wp-content/uploads/2014/02/Jef-300x300.jpg"
+  linkedin: "http://www.linkedin.com/profile/view?id=316499239&trk=nav_responsive_tab_profile"
+  github: "https://github.com/JefCurtis"
+  twitter: "http://www.twitter.com/jefcurtis"
+

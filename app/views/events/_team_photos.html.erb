@@ -1,0 +1,16 @@
+<section id="team-photos">
+  <h3 class="titles team-photo-padding">Website Created by CodeCore-Cohort #1 <strong>Week 4</strong></h3>
+  <div class="box">
+    
+    <% member_count = 0 %>
+    <% team_members.each do |member_hash| %>
+    <% member_count += 1 %>
+      <%= render "events/team_member", member_hash: member_hash %>
+    <% end %>
+ <div class="clearfix"></div>
+ </div>
+
+
+
+    <div class="clear-float"></div>
+</section>
